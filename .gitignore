@@ -1,0 +1,5 @@
+.DS_Store
+*.log
+*.txt
+WrongLogs
+__debug_bin
